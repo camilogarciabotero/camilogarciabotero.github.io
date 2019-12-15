@@ -1,10 +1,11 @@
 # --- General options --- #
 
 # Name of website
-title: Camilo García
+title: Camilo's website
+subtitle: This place will host something later
 
 # Short description of your site
-description: Biologist interested on using bioinformatics and data science to underestand ecological and evolutionary phenomena. Currently working on **Bacillus subtilis** evoloution.
+description: Running a website for the first time, hopefully you'll find something interested on.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
