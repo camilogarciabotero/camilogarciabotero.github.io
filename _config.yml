@@ -22,7 +22,7 @@ description: Welcome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Piceras: "
+  Piceras: "http://www.eafit.edu.co/escuelas/ciencias/departamento-ciencias-biologicas/piceras/Paginas/default.aspx"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://camilogarciabotero.github.io"
