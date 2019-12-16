@@ -5,7 +5,7 @@ title: Camilo García
 subtitle: This place will host something later
 
 # Short description of your site
-description: Running a website for the first time, hopefully you'll find something interested on it.
+description: Welcome!
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,6 +22,7 @@ description: Running a website for the first time, hopefully you'll find somethi
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Piceras: "
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://camilogarciabotero.github.io"
