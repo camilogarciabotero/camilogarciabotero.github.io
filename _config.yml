@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Camilo García
+title: Camilo Garc??a
 subtitle: This place will host something later
 
 # Short description of your site
@@ -39,9 +39,9 @@ avatar: "/img/CV_pic_PPP.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 #navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-text-col: "#0F50E4"  #"#404040"
 navbar-children-col: "#F5F5F5"
-#page-col: "#FFFFFF"
+page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 #footer-col: "#F5F5F5"
@@ -53,14 +53,14 @@ footer-link-col: "#404040"
 
 navbar-img: "/img/bgimage.png"
 footer-img: "/img/bgimage.png"
-page-img: "/img/bgimage.png"
+#page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Camilo García
+  name: Camilo Garc??a
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email: "cgarci39@eafit.edu.co"
-#  facebook: Camilo García
+#  facebook: Camilo Garc??a
   github: camilogarciabotero
   twitter: gaspardelanoche
 #  reddit: yourname
