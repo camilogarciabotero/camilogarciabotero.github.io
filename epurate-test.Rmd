@@ -11,10 +11,10 @@ home: "www.yan-holtz.com"
 # !!! You need to provide a logo image here !!! Or just delete the field for no logo
 logo: "logo_gallery.png"
 output:
-  epuRate::epurate:
-    toc: TRUE
-    number_sections: FALSE
-    code_folding: "hide"
+  html_document:
+   toc: TRUE
+   number_sections: FALSE
+   code_folding: "hide"
 ---
 
 
