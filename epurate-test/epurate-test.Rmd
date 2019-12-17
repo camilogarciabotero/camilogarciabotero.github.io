@@ -10,7 +10,7 @@ home: "https://camilogarciabotero.github.io"
 # !!! You need to provide a logo image here !!! Or just delete the field for no logo
 logo: "logo.png"
 output:
-  html_document:
+  epuRate::epurate:
    toc: TRUE
    number_sections: FALSE
    code_folding: "hide"
