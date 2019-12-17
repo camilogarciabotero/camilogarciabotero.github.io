@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Camilo Garc??a
+title: Camilo Garcíaa
 subtitle: This place will host something later
 
 # Short description of your site
@@ -22,7 +22,9 @@ description: Welcome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Reports: "Reports/epurate-test.html"
+  CV: "CV/CamiloGarciaEnglishCV.pdf
+  Reports: 
+    - Template: "Reports/epurate-test.html"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://camilogarciabotero.github.io"
@@ -62,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Camilo Garc??a
+  name: Camilo García
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
