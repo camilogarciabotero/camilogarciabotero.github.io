@@ -1,6 +1,6 @@
 ---
 title: "A clean and uncluttered template"
-author: "[Camilo Garc??a](https://github.com/camilogarciabotero)"
+author: "[Camilo Garcia](https://github.com/camilogarciabotero)"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 mail: "cgarci39@eafit.edu.co"
 twitter: "gaspardelanoche"
