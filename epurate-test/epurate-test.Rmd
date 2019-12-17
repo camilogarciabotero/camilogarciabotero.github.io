@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "A clean and uncluttered template"
 author: "[Camilo Garc??a](https://github.com/camilogarciabotero)"
 date: "`r format(Sys.time(), '%d %B %Y')`"
