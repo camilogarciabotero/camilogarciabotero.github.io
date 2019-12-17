@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Camilo Garcíaa
+title: Camilo García
 subtitle: This place will host something later
 
 # Short description of your site
@@ -22,7 +22,7 @@ description: Welcome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  CV: "CV/CamiloGarciaEnglishCV.pdf
+  CV: "CV/CamiloGarciaEnglishCV.pdf"
   Reports: 
     - Template: "Reports/epurate-test.html"
   Resources:
