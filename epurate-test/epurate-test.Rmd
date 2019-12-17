@@ -8,7 +8,7 @@ twitter: "gaspardelanoche"
 github: "camilogarcia"
 home: "https://camilogarciabotero.github.io"
 # !!! You need to provide a logo image here !!! Or just delete the field for no logo
-logo: "logo_gallery.png"
+logo: "logo.png"
 output:
   html_document:
    toc: TRUE
