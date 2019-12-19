@@ -22,11 +22,11 @@ description: Welcome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  CV: "CV/CamiloGarciaEnglishCV.pdf"
+  CV: 
+    - English: "CV/CamiloGarciaEnglishCV.pdf"
+    - Spanish: "CV/CamiloGarciaSpanishCV.pdf
   Reports: 
     - Template: "Reports/epurate-test.html"
-  Resources:
-    - Learn markdown: "http://www.markdowntutorial.com/"
   Piceras: "http://www.eafit.edu.co/escuelas/ciencias/departamento-ciencias-biologicas/piceras/Paginas/default.aspx"
 
 # Image to show in the navigation bar - image must be a square (width = height)
