@@ -13,8 +13,9 @@ bigimg:
     </p> 
 </body>
 
-
 <style>.embed-container { position: relative; padding-bottom:56.25%; height:0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}</style><div class='embed-container' data-page-width='494' data-page-height='640' id='ypembedcontainer' ><iframe   src="https://www.yumpu.com/es/embed/view/DsRdlZGNifWkuTzB" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe></div><script src='https://players.yumpu.com/modules/embed/yp_r_iframe.js' ></script>
+
+<hr>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -67,6 +68,21 @@ bigimg:
   {% endfor %}
 </div>
 
+<hr>
+
+<body> 
+    <h2 class="text-center">Support me</h2>
+    <p title="Consider supporting me at:"> 
+    </p> 
+</body>
+
+<p align="center">
+  <a href="https://www.paypal.me/camilogarciabotero">
+    <img src="img/donate-logo.png" />
+  </a>
+</p>
+
+
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
@@ -82,15 +98,5 @@ bigimg:
 </ul>
 {% endif %}
 
-<body> 
-    <h2 class="text-center">Support me</h2>
-    <p title="Consider supporting me at:"> 
-    </p> 
-</body>
 
-<p align="center">
-  <a href="https://www.paypal.me/camilogarciabotero">
-    <img src="img/donate-logo.png" />
-  </a>
-</p>
 
