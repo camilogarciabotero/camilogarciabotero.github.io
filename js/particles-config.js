@@ -1,3 +1,4 @@
+/* particle.js configuration json */
 
 particlesJS('particles-js',
             
