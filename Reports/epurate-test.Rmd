@@ -213,6 +213,7 @@ Read more about this template [here](https://github.com/holtzy/epuRate).
 Learn how to custom your R Markdown document [here](https://holtzy.github.io/Pimp-my-rmd/).
 
 ***
+<br><br>
 
 <div id="disqus_thread"></div>
 <script>
