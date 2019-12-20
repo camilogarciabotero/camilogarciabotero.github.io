@@ -21,8 +21,6 @@ description: Welcome!
 
 # List of links in the navigation bar
 navbar-links:
-  Posts: 
-    - First: "_posts/2015-01-04-first-post.md"
   CV: 
     - English: "CV/CamiloGarciaEnglishCV.pdf"
     - Spanish: "CV/CamiloGarciaSpanishCV.pdf"
