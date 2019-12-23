@@ -9,7 +9,7 @@ I would like to thanks [Dean Attali](https://deanattali.com) for the amazing tem
 
 I also want to give credits to [Yan Holtz](https://www.yan-holtz.com) **Reports** template I could include on the website. If I am missing any other important credit, let me know to give them the appropiate credit.
 
-<p style="text-align: right;">Camilo Garc??a</p>
+<p style="text-align: right;">Camilo García</p>
 
 
 
