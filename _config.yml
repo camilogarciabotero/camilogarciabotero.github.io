@@ -21,7 +21,8 @@ description: Welcome!
 
 # List of links in the navigation bar
 navbar-links:
-  CV: 
+  CV:
+    - Credits: "Credits.html"
     - English: "CV/CamiloGarciaEnglishCV.pdf"
     - Spanish: "CV/CamiloGarciaSpanishCV.pdf"
   Reports: 
