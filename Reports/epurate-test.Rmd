@@ -5,8 +5,7 @@ date: "`r format(Sys.time(), '%d %B %Y')`"
 mail: "cgarci39@eafit.edu.co"
 twitter: "gaspardelanoche"
 github: "camilogarciabotero"
-#home: "https://camilogarciabotero.github.io"
-# !!! You need to provide a logo image here !!! Or just delete the field for no logo
+home: "https://camilogarciabotero.github.io"
 logo: "logo.png"
 output:
   epuRate::epurate:
