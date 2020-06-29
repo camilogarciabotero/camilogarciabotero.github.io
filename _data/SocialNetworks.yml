@@ -94,9 +94,9 @@ yelp:
 google-scholar:
   name: "scholar"
   baseURL: "https://scholar.google.com/citations?user="
-  icon: "ai-google-scholar"
+  icon: "fa-google-scholar"
   
 orcid:
   name: "orcid"
   baseURL: "https://orcid.org/"
-  icon: "ai-orcid"
+  icon: "fa-orcid"
