@@ -90,3 +90,13 @@ yelp:
   name: "Yelp"
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
   icon: "fa-yelp"
+
+google-scholar:
+  name: "scholar"
+  baseURL: "https://scholar.google.com/citations?user="
+  icon: "ai-google-scholar"
+  
+orcid:
+  name: "orcid"
+  baseURL: "https://orcid.org/"
+  icon: "ai-orcid"
