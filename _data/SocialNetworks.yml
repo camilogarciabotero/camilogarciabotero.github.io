@@ -91,12 +91,12 @@ yelp:
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
   icon: "fa-yelp"
 
-google-scholar:
-  name: "scholar"
+scholar:
+  name: "Scholar"
   baseURL: "https://scholar.google.com/citations?user="
   icon: "fa-google-scholar"
   
 orcid:
-  name: "orcid"
+  name: "Orcid"
   baseURL: "https://orcid.org/"
   icon: "fa-orcid"
