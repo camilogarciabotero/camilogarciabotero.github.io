@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Camilo García
+title: Camilo Garcia
 subtitle: This place will host something later
 
 # Short description of your site
@@ -64,7 +64,7 @@ hover-col: "#0085A1"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Camilo García
+  name: Camilo Garcia
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
