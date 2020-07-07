@@ -26,7 +26,8 @@ navbar-links:
     - Spanish: "CV/CamiloGarciaSpanishCV.pdf"
   Reports: 
     - Template: "Reports/epurate-test.html"
-  TidyTuesday: "https://camilogarciabotero.github.io/Tidytuesday-attempts/TT-coffee.html"
+  TidyTuesday:
+    - Coffee: "https://camilogarciabotero.github.io/Tidytuesday-attempts/TT-coffee.html"
   Piceras: "http://www.eafit.edu.co/escuelas/ciencias/departamento-ciencias-biologicas/piceras/Paginas/default.aspx"
   Credits: "credits"
 
