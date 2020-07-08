@@ -27,7 +27,7 @@ navbar-links:
   #Reports: 
   #  - Template: "Reports/epurate-test.html"
   TidyTuesday:
-    - Coffee: "https://camilogarciabotero.github.io/Tidytuesday-attempts/TT-coffee.html"
+    - Coffee: "https://camilogarciabotero.github.io/Tidytuesday-attempts/2020-W28/TT-coffee.html"
   Piceras: "http://www.eafit.edu.co/escuelas/ciencias/departamento-ciencias-biologicas/piceras/Paginas/default.aspx"
   Credits: "credits"
 
