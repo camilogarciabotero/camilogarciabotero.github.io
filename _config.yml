@@ -21,17 +21,18 @@ description: Welcome!
 
 # List of links in the navigation bar
 navbar-links:
-  CV:
-    - English: "CV/CamiloGarciaEnglishCV.pdf"
-    - Spanish: "CV/CamiloGarciaSpanishCV.pdf"
   #Reports: 
   #  - Template: "Reports/epurate-test.html"
+  R-Pkgs:
+    - eafithemer: "https://camilogarciabotero.github.io/eafithemer/"
   TidyTuesday:
     - Coffee: "https://camilogarciabotero.github.io/Tidytuesday-attempts/2020-W28/TT-coffee.html"
     - Astronauts: "https://camilogarciabotero.github.io/Tidytuesday-attempts/2020-W29/TT-Astronauts.html"
   # Piceras: "http://www.eafit.edu.co/escuelas/ciencias/departamento-ciencias-biologicas/piceras/Paginas/default.aspx"
   # Credits: "credits"
-
+  CV:
+    - English: "CV/CamiloGarciaEnglishCV.pdf"
+    - Spanish: "CV/CamiloGarciaSpanishCV.pdf"
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/profile.jpg"
