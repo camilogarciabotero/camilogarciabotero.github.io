@@ -32,6 +32,8 @@ navbar-links:
     - Slaves: "https://camilogarciabotero.github.io/Tidytuesdays/2021/W08/W08.html"
   # Piceras: "http://www.eafit.edu.co/escuelas/ciencias/departamento-ciencias-biologicas/piceras/Paginas/default.aspx"
   # Credits: "credits"
+  BioChallenges: 
+    -KmerCounts: "https://camilogarciabotero.github.io/BioChanllenges/KmerCounts/kmer_counts.html"
   CV:
     - English: "CV/CamiloGarciaEnglishCV.pdf"
     - Spanish: "CV/CamiloGarciaSpanishCV.pdf"
