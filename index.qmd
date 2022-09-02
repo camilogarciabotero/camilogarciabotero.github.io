@@ -2,6 +2,7 @@
 title: "Camilo García-Botero"
 header-includes:  |
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+resources: "vitae.pdf"
 about:
   template: jolla
   image: imgs/profile.jpg
@@ -13,7 +14,7 @@ about:
     - text: "{{< fa brands orcid >}}"
       href: https://orcid.org/0000-0002-0426-7007
     - text: <i class="ai ai-cv"></i>
-      href: https://camilogarciabotero.github.io/CV/CamiloGarciaEnglishCV.pdf
+      href: ./vitae.pdf
     - text: <i class="ai ai-researchgate"></i>
       href: https://www.researchgate.net/profile/Camilo-Garcia-Botero-2
     - text: "{{< fa brands blogger >}}"
