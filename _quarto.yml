@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: "Home"
+  #     - href: gallery/index.qmd
+  #       text: "Projects"
+    # background: light
+  search: false
+  navbar: false
+  # page-navigation: true
+
+format:
+  html:
+    theme: 
+      light:
+        - flatly
+      dark: 
+        - darkly
+    css: styles.css

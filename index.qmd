@@ -1,0 +1,25 @@
+---
+title: "Camilo García-Botero"
+header-includes:  |
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+about:
+  template: jolla
+  image: imgs/profile.jpg
+  links:
+    - icon: github
+      href: https://github.com/camilogarciabotero
+    - text: <i class="ai ai-google-scholar"></i> 
+      href: https://scholar.google.com/citations?user=OJ6452UAAAAJ&hl=en
+    - text: "{{< fa brands orcid >}}"
+      href: https://orcid.org/0000-0002-0426-7007
+    - text: <i class="ai ai-cv"></i>
+      href: https://camilogarciabotero.github.io/CV/CamiloGarciaEnglishCV.pdf
+    - text: <i class="ai ai-researchgate"></i>
+      href: https://www.researchgate.net/profile/Camilo-Garcia-Botero-2
+    - text: "{{< fa brands blogger >}}"
+      href: https://camilogarciabotero.github.io/blog
+    - icon: twitter
+      href: https://twitter.com/Gaspardelanoche
+---
+
+Hey there, I am a biologist diving into bioinformatics. My interests circle around bacteria-phage interactions, its evolution and ecology. Currently working on the emergence of phenotypical variants in *B. tequilensis* EA-CB0015. I'm also working on a bioinformatics [book](https://camilogarciabotero.github.io/biocomp-book/).
