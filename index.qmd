@@ -23,4 +23,6 @@ about:
       href: https://twitter.com/Gaspardelanoche
 ---
 
-{{< animate fadeInLeft "Hey there, I am a biologist diving into bioinformatics. My interests circle around bacteria-phage interactions, its evolution and ecology. Currently working on the emergence of phenotypical variants in *B. tequilensis* EA-CB0015. I'm also working on a bioinformatics {{< var book >}}" >}}
+::: {.animate__animated .animate__fadeInLeft .animate__duration-0.01s}
+Hey there, I am a biologist diving into bioinformatics. My interests circle around bacteria-phage interactions, its evolution and ecology. Currently working on the emergence of phenotypical variants in *B. tequilensis* EA-CB0015. I'm also working on a bioinformatics [book](https://camilogarciabotero.github.io/biocomp-book)
+:::
