@@ -1,5 +1,5 @@
 ---
-title: "Camilo García-Botero"
+title: '{{< animate fadeIn "Camilo García-Botero" >}}'
 header-includes:  |
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 resources: "vitae.pdf"
@@ -23,4 +23,4 @@ about:
       href: https://twitter.com/Gaspardelanoche
 ---
 
-Hey there, I am a biologist diving into bioinformatics. My interests circle around bacteria-phage interactions, its evolution and ecology. Currently working on the emergence of phenotypical variants in *B. tequilensis* EA-CB0015. I'm also working on a bioinformatics [book](https://camilogarciabotero.github.io/biocomp-book/).
+{{< animate fadeInLeft "Hey there, I am a biologist diving into bioinformatics. My interests circle around bacteria-phage interactions, its evolution and ecology. Currently working on the emergence of phenotypical variants in *B. tequilensis* EA-CB0015. I'm also working on a bioinformatics {{< var book >}}" >}}

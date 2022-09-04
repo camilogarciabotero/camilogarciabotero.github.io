@@ -13,6 +13,8 @@ website:
   navbar: false
   # page-navigation: true
 
+google-analytics: "G-6V8GZB3LCW"
+
 format:
   html:
     theme: 
