@@ -22,4 +22,4 @@ format:
         - flatly
       dark: 
         - darkly
-    css: styles.css
+    css: styles.scss
