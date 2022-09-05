@@ -13,8 +13,7 @@ website:
   search: false
   navbar: false
   # page-navigation: true
-
-google-analytics: "G-6V8GZB3LCW"
+  google-analytics: "G-6V8GZB3LCW"
 
 format:
   html:
