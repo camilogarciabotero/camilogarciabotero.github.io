@@ -22,6 +22,8 @@ about:
       href: https://camilogarciabotero.github.io/blog
     - icon: twitter
       href: https://twitter.com/Gaspardelanoche
+    - text: "{{< fa solid mug-saucer >}}"
+      href: https://www.paypal.com/paypalme/camilogarciabotero
 ---
 
 ::: {.animate__animated .animate__fadeIn .animate__duration-0.01s}
