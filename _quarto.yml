@@ -20,6 +20,7 @@ format:
     theme: 
       light:
         - flatly
+        - fonts.scss
       dark: 
         - darkly
-    css: styles.scss
+        - fonts.scss
