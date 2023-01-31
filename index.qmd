@@ -27,5 +27,5 @@ about:
 ---
 
 ::: {.animate__animated .animate__fadeIn .animate__duration-0.01s}
-Hey there, I am a biologist diving into bioinformatics. I'm interested in bacteria-phage interactions, its evolution and ecology. Currently working on the emergence of phenotypical variants in *B. tequilensis* EA-CB0015 and looking forward to understand what a *gene* is in bacteriophages.
+Greetings! I'm a bioinformatician in the making. I delve into the fascinating world of bacteria-phage relationships. My current obsession? Understanding the the biology of these tiny organisms. I'm especially intrigued by *B. tequilensis* EA-CB0015 phenotypical variants (apparently orchestrated by phages) and eager to unravel the mystery behind genes in bacteriophages.
 :::
