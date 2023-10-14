@@ -24,8 +24,8 @@ about:
       href: https://twitter.com/Gaspardelanoche
     - text: "{{< fa solid mug-saucer >}}"
       href: https://www.paypal.com/paypalme/camilogarciabotero
-    - text: "{{< fa solid torii-gate >}}"
-      href: https://camilogarciabotero.github.io/garden/
+    # - text: "{{< fa solid torii-gate >}}"
+    #   href: https://camilogarciabotero.github.io/garden/
 ---
 
 ::: {.animate__animated .animate__fadeIn .animate__duration-0.01s}
