@@ -29,5 +29,5 @@ about:
 ---
 
 ::: {.animate__animated .animate__fadeIn .animate__duration-0.01s}
-Greetings! I'm a bioinformatician in the making. I delve into the fascinating world of bacteria-phage relationships. My current obsession? Understanding the the biology of these tiny organisms. I'm especially intrigued by *B. tequilensis* EA-CB0015 phenotypical variants (apparently orchestrated by phages) and eager to unravel the mystery behind genes in bacteriophages.
+Hello, I am a bioinformatics researcher with a focus on understanding the microbial world through computational approaches. My current research is centered on the human microbiome and its role in health and disease. I am also engaged in developing bioinformatics tools and pipelines for analyzing high-throughput sequencing data.
 :::
