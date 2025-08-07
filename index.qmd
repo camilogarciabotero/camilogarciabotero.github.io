@@ -31,6 +31,5 @@ about:
 ---
 
 ::: {.animate__animated .animate__fadeIn .animate__duration-0.01s}
-<!-- Hello, I am a bioinformatics researcher with a focus on understanding the microbial world through computational approaches. My current research is centered on the human microbiome and how the microbial genes are associated with different human factors. I am also engaged in developing bioinformatics tools and pipelines for analyzing viral genomes. -->
-I am a bioinformatics researcher dedicated to exploring the microbial world through data-driven, computational approaches. My current work focuses on the human microbiome and virome, with an emphasis on understanding how microbial genes interact with host-related factors such as health, geography, and lifestyle. I am also actively involved in developing robust bioinformatics tools and pipelines to accelerate the analysis, classification, and interpretation of viral genomes. By integrating microbial ecology, genomics, and machine learning, my goal is to uncover novel insights into microbial dynamics and their broader implications for human health and disease.
+Hey there, curious soul! I'm Camilo, a bioinformatician passionate about exploring the microbial world through computational approaches. My current research focuses on the human microbiome (the weird and neglected viral part) and how their genes are associated with various human factors. At the same time, I'm also involved in developing bioinformatics tools and pipelines for analyzing viral genomes.
 :::
