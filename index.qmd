@@ -14,8 +14,10 @@ about:
       href: https://scholar.google.com/citations?user=OJ6452UAAAAJ&hl=en
     - text: "{{< fa brands orcid >}}"
       href: https://orcid.org/0000-0002-0426-7007
-    - text: <i class="ai ai-cv"></i>
-      href: ./vitae.pdf
+    - text: "{{< fa brands linkedin >}}"
+      href: https://www.linkedin.com/in/camilo-garcía-botero-983b25161/
+    # - text: <i class="ai ai-cv"></i>
+    #   href: ./vitae.pdf
     - text: <i class="ai ai-researchgate"></i>
       href: https://www.researchgate.net/profile/Camilo-Garcia-Botero-2
     - text: "{{< fa brands blogger >}}"
@@ -29,5 +31,6 @@ about:
 ---
 
 ::: {.animate__animated .animate__fadeIn .animate__duration-0.01s}
-Hello, I am a bioinformatics researcher with a focus on understanding the microbial world through computational approaches. My current research is centered on the human microbiome and how the microbial genes are associated with different human factors. I am also engaged in developing bioinformatics tools and pipelines for analyzing viral genomes.
+<!-- Hello, I am a bioinformatics researcher with a focus on understanding the microbial world through computational approaches. My current research is centered on the human microbiome and how the microbial genes are associated with different human factors. I am also engaged in developing bioinformatics tools and pipelines for analyzing viral genomes. -->
+I am a bioinformatics researcher dedicated to exploring the microbial world through data-driven, computational approaches. My current work focuses on the human microbiome and virome, with an emphasis on understanding how microbial genes interact with host-related factors such as health, geography, and lifestyle. I am also actively involved in developing robust bioinformatics tools and pipelines to accelerate the analysis, classification, and interpretation of viral genomes. By integrating microbial ecology, genomics, and machine learning, my goal is to uncover novel insights into microbial dynamics and their broader implications for human health and disease.
 :::
